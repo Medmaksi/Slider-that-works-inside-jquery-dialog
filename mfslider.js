@@ -69,7 +69,7 @@ if(durum==='next' && i<slides.length-1 && window.screen.width<415){
 }
 
 
-let dropit = function(e){
+/*let dropit = function(e){
    let evalue= e.parentElement.nextSibling.nextSibling.childNodes[1].value;
 
     request = $.ajax({
@@ -96,5 +96,5 @@ let dropit = function(e){
         );
     });
 
-}
+}*/
 
